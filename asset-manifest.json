@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zacstop/movie_app_21/static/css/main.0869474b.chunk.css",
+    "main.js": "/zacstop/movie_app_21/static/js/main.3c47cde0.chunk.js",
+    "main.js.map": "/zacstop/movie_app_21/static/js/main.3c47cde0.chunk.js.map",
+    "runtime-main.js": "/zacstop/movie_app_21/static/js/runtime-main.8cc7c85c.js",
+    "runtime-main.js.map": "/zacstop/movie_app_21/static/js/runtime-main.8cc7c85c.js.map",
+    "static/js/2.26a2ed7b.chunk.js": "/zacstop/movie_app_21/static/js/2.26a2ed7b.chunk.js",
+    "static/js/2.26a2ed7b.chunk.js.map": "/zacstop/movie_app_21/static/js/2.26a2ed7b.chunk.js.map",
+    "static/js/3.4ba0882a.chunk.js": "/zacstop/movie_app_21/static/js/3.4ba0882a.chunk.js",
+    "static/js/3.4ba0882a.chunk.js.map": "/zacstop/movie_app_21/static/js/3.4ba0882a.chunk.js.map",
+    "index.html": "/zacstop/movie_app_21/index.html",
+    "static/css/main.0869474b.chunk.css.map": "/zacstop/movie_app_21/static/css/main.0869474b.chunk.css.map",
+    "static/js/2.26a2ed7b.chunk.js.LICENSE.txt": "/zacstop/movie_app_21/static/js/2.26a2ed7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc7c85c.js",
+    "static/js/2.26a2ed7b.chunk.js",
+    "static/css/main.0869474b.chunk.css",
+    "static/js/main.3c47cde0.chunk.js"
+  ]
+}
