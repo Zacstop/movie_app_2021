@@ -1,0 +1,42 @@
+/* 중괄호 소괄호를 어떤 상황에치는지
+리엑트의 시멘틱 (class, components, return, render... 화살표 사용 등) */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+/* }
+@@ -6,3 +10,80 @@ body { */
+  background-color: #eff3f7;
+  height: 100%;
+}
+
+html,
+body,
+#potato,
+.container {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.loader {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 300;
+}
+
+.movies {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 50px;
+  padding-top: 70px;
+  width: 80%;
+}
