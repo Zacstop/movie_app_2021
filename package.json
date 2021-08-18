@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Zacstop.github.io/movie_app_2021/"
+  "homepage": "https://Zacstop.github.io/movie_app_2021/",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
 }
