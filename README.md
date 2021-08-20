@@ -1,9 +1,10 @@
 #DO HOW
 
-1. return, render
+1. HOOKS //
+
+<!-- 1. return, render
 1. class, component
 1. state, props
-1. HOOKS //
 
 javascript를 사용할떄 {}를 사용한다.
 
@@ -20,4 +21,4 @@ class component에는 render() 매서드가 필수이며
 lifeCycle을 사용할 수 있다.
 props 를 조회 해야 할 때에는 this.props 를 조회하면된다.
 
-component란 리액트로 만들어진 앱을 이루는 최소한의 단위이며 하나하나의 재사용성이 있는 요소들이다.
+component란 리액트로 만들어진 앱을 이루는 최소한의 단위이며 하나하나의 재사용성이 있는 요소들이다. -->

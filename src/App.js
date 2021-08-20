@@ -13,11 +13,6 @@ function App() {
       <Route path="/about" component={About} />
       <Route path="/movie/:id" component={Detail} />
     </BrowserRouter>
-
-    // <>
-    //   <Home />
-    //   <About />
-    // </>
   );
 }
 
