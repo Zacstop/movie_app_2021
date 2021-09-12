@@ -1,26 +1,29 @@
 import React from "react";
 import axios from "axios";
-import Movie from "../components/Movie";
+import Movie from "../components/Moive";
 import "./Home.css";
 
-class App extends React.Component {
+class Home extends React.Component {
   state = {
     isLoading: true,
     movies: [],
   };
+  // 통신
   getMovies = async () => {
     const {
       data: {
         data: { movies },
       },
     } = await axios.get(
-      "https://yts-proxy.now.sh/list_movies.json?sort_by=download_count"
+      "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
     );
     this.setState({ movies, isLoading: false });
   };
+
   componentDidMount() {
     this.getMovies();
   }
+
   render() {
     const { isLoading, movies } = this.state;
     return (
@@ -49,4 +52,4 @@ class App extends React.Component {
   }
 }
 
-export default App;
+export default Home;
